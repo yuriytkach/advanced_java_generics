@@ -7,8 +7,6 @@ import java.util.List;
 
 import org.junit.Test;
 
-import ua.yet.adv.java.generics.TypeErasureComplex.SomeType;
-
 public class TestSomeType {
 
     @Test(expected = ClassCastException.class)
